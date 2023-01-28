@@ -4,7 +4,7 @@
 
 </br>
 
-- 💬 Ask me about **Web3, BlockChain, React, Nest**
+
 
 - 📫 How to reach me **0xleanlp@gmail.com**
 
